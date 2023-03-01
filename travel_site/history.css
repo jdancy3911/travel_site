@@ -1,0 +1,19 @@
+@charset "UTF-8";
+main {
+	width: 1025px;
+	height: 2200px;
+}
+article ul img {
+	padding-left: 280px;		
+}
+article ul li {
+	padding-left: 0px;
+	padding-right: 0px;
+	list-style-type: none;
+}
+article ul h4 {
+}
+aside {
+	width: 120px;
+	height: 2000px;
+}

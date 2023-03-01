@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+main article img {
+}
+main article li {
+	width: 1025px;
+	font-size: 25px;
+	text-align: left;
+}
+article ul h5 {
+	width: 920px;
+	font-size: 15px;
+}
